@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Welcome to homepage of yabaitech.tokyo
