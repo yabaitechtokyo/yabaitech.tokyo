@@ -7,8 +7,9 @@ categories: techbookfest5
 
 yabaitech.tokyoは[技術書典5](https://techbookfest.org/event/tbf05/circle/26720001)に出展します。よろしくお願いします。
 
-**場所**:
-か31
+* 場所: か31
+* サークル詳細: [https://techbookfest.org/event/tbf05/circle/26720001](https://techbookfest.org/event/tbf05/circle/26720001)
+
 
 以下のものを頒布予定です。
 * yabaitech.tokyo vol.1
@@ -36,9 +37,7 @@ RNNからDFAを抽出する、今年のICML論文の、オートマトン寄り�
 様相論理の話となるとほぼ必ずKripke意味論の話が出てきますが、その一方で
 その証明体系の話は比較的マイナーな分野となっています。今回はCurry-Howard
 同型を考える上で必須となってくる「直観主義様相論理の自然演繹」の
-体系について紹介します。様相論理の別の一面を楽しんでください。
+体系について紹介します。様相論理の別の一面を楽しんでいただければ幸いです。
 
 ## The SATySFi book
 by bd_gfngfn
-
-
