@@ -46,7 +46,7 @@ by bd_gfngfn
 
 ![表紙]({{site.baseurl}}/images/thesatysfibook_hyoshi.jpg){:width="300px"}
 
-**価格**: 150円
+**価格**: 1500円
 
 **ページ数**: 160
 
