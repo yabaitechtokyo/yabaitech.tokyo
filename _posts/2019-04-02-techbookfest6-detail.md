@@ -24,7 +24,7 @@ categories: techbookfest6
 
 ![表紙]({{site.baseurl}}/images/yabaitechvol2_front_final.jpg){:width="500px"}
 
-![表紙]({{site.baseurl}}/images/yabaitechvol2_back_final.jpg){:width="500px"}
+![裏表紙]({{site.baseurl}}/images/yabaitechvol2_back_final.jpg){:width="500px"}
 
 今回の合同誌もヤバイテックトーキョーのメンバーがコンピュータサイエンスコンピュータサイエンスの様々なトピックについて好き勝手なことを書きます。以下に各記事の著者による一言紹介をのせておきますね。多分興味のある記事があったらヤバイテックトーキョーに立ち寄ってみてもいいと思います。
 
@@ -46,5 +46,7 @@ categories: techbookfest6
 また、今回もThe SATySFibookを少数ですが頒布します。多分前回入手し損ねた人は今回ヤバイテックトーキョーに寄るといいと思います。
 * 値段: 1200円
 * 頒布予定部数: 30部
+
+![表紙]({{site.baseurl}}/images/thesatysfibook.png){:width="500px"}
 
 以上、よろしくお願いします。
