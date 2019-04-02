@@ -31,6 +31,7 @@ categories: techbookfest6
 * けもフレ bot を支える技術（導入編）by censored
 >「無料でmecabを使った人工無能のtwitter botを運用したいっていうQxxta記事みたいなやつを書きます。」
 * Writing a (micro)kernel in Rust in 12 days ― The first 3 days ― by nullpo_head
+> シェフの創作L4カーネル料理 〜 ピスタチオと鉄錆を添えて 〜
 * 定理証明支援系をつくろう！by wasabiz
 > 定理証明支援系をつくりたい．定理証明支援系をつくりたくない？
 * プログラミング言語を形式化するもう一つの方法について by zeptometer
