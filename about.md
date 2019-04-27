@@ -13,3 +13,4 @@ yabaitech.tokyoはコンピュータサイエンスに関する話題を広く�
 * @bd_gfngfn
 * @zptmtr
 * @MasWag
+* @irn\_bru\_
