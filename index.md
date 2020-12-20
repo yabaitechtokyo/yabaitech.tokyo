@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Welcome to homepage of yabaitech.tokyo
+yabaitech.tokyoの情報を発信します。既刊は [Booth](https://yabaitech-tokyo.booth.pm) または [技術書典オンラインマーケット](https://techbookfest.org/organization/49000003) から購入できます。
