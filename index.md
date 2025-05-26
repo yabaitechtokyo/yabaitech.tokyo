@@ -5,4 +5,4 @@
 layout: home
 ---
 
-yabaitech.tokyoの情報を発信します。既刊は [Booth](https://yabaitech-tokyo.booth.pm) または [技術書典オンラインマーケット](https://techbookfest.org/organization/49000003) から購入できます。
+yabaitech.tokyoの情報を発信します。既刊は[Publication]({{site.baseurl}}/publications)ページから閲覧できます( [Booth](https://yabaitech-tokyo.booth.pm) または [技術書典オンラインマーケット](https://techbookfest.org/organization/49000003) でも頒布/販売しております)。

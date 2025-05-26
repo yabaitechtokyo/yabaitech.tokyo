@@ -18,4 +18,4 @@ yabaitech.tokyoはコンピュータサイエンスに関する話題を広く�
 * @b_inary
 
 ## 既刊
-既刊は [Booth](https://yabaitech-tokyo.booth.pm) または [技術書典オンラインマーケット](https://techbookfest.org/organization/49000003) から購入できます。
+既刊は[Publication]({{site.baseurl}}/publications)ページから閲覧できます( [Booth](https://yabaitech-tokyo.booth.pm) または [技術書典オンラインマーケット](https://techbookfest.org/organization/49000003) でも頒布/販売しております)。
