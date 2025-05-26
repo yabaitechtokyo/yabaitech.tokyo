@@ -16,7 +16,7 @@ yabaitech.tokyoは[技術書典5](https://techbookfest.org/event/tbf05/circle/26
 * The SATySFi Book
 
 ## yabaitech.tokyo vol.1
-![表紙]({{site.baseurl}}/images/yabaitechvol1_hyoshi.png){:width="300px"}
+![表紙]({{site.baseurl}}/assets/images/yabaitechvol1_hyoshi.png){:width="300px"}
 
 (表紙: censored__)
 
@@ -44,7 +44,7 @@ RNNからDFAを抽出する、今年のICML論文の、オートマトン寄り�
 ## The SATySFi book
 by bd_gfngfn
 
-![表紙]({{site.baseurl}}/images/thesatysfibook_hyoshi.jpg){:width="300px"}
+![表紙]({{site.baseurl}}/assets/images/thesatysfibook_hyoshi.jpg){:width="300px"}
 
 **価格**: 1500円
 

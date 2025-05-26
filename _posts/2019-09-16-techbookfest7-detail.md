@@ -12,7 +12,7 @@ categories: techbookfest7
 # 配置はけ04
 今回は2階ホールDの*え34D*に配置されました。
 
-![表紙]({{site.baseurl}}/images/circle-layout-7.png){:width="600px"}
+![表紙]({{site.baseurl}}/assets/images/circle-layout-7.png){:width="600px"}
 
 
 # 頒布物
@@ -36,7 +36,7 @@ categories: techbookfest7
 
 なお今回も表紙がいい感じになっております。
 
-![表紙]({{site.baseurl}}/images/yabaitechvol3_front.png){:width="500px"}
+![表紙]({{site.baseurl}}/assets/images/yabaitechvol3_front.png){:width="500px"}
 
 また、vol.3と前回のvol.2についてそれぞれDLカードを販売します。それぞれ1000円で販売予定です。
 

@@ -12,7 +12,7 @@ categories: techbookfest6
 # 配置はえ34
 今回は*え34*に配置されました。多分会場に入って真っ先に向かうといいと思います。
 
-![表紙]({{site.baseurl}}/images/circle-layout.png){:width="600px"}
+![表紙]({{site.baseurl}}/assets/images/circle-layout.png){:width="600px"}
 
 # 頒布物
 今回のメインの頒布物はyabaitech.tokyo vol.2です。
@@ -39,14 +39,14 @@ categories: techbookfest6
 
 なお、表紙がいい感じになっております。多分表紙のためだけに買ってもいいと思います。
 
-![表紙]({{site.baseurl}}/images/yabaitechvol2_front_final.jpg){:width="500px"}
+![表紙]({{site.baseurl}}/assets/images/yabaitechvol2_front_final.jpg){:width="500px"}
 
-![裏表紙]({{site.baseurl}}/images/yabaitechvol2_back_final.jpg){:width="500px"}
+![裏表紙]({{site.baseurl}}/assets/images/yabaitechvol2_back_final.jpg){:width="500px"}
 
 また、今回もThe SATySFibookを少数ですが頒布します。多分前回入手し損ねた人は今回ヤバイテックトーキョーに寄るといいと思います。
 * 値段: 1200円
 * 頒布予定部数: 30部
 
-![表紙]({{site.baseurl}}/images/thesatysfibook.png){:width="500px"}
+![表紙]({{site.baseurl}}/assets/images/thesatysfibook.png){:width="500px"}
 
 以上、よろしくお願いします。

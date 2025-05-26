@@ -5,7 +5,7 @@ date:   2020-09-12 9:00:00 +0900
 categories: techbookfest9
 ---
 
-![表紙]({{site.baseurl}}/images/yabaitechvol5_front.png){:width="300px"}
+![表紙]({{site.baseurl}}/assets/images/yabaitechvol5_front.png){:width="300px"}
 
 いよいよ明日が技術書典9本番ですよ！ むっちゃドキドキしてきた…。サークル参加者の皆さん、今日くらいは勉強は休んで明日に備えますよね？
 

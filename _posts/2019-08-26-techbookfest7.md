@@ -9,7 +9,7 @@ categories: techbookfest7
 
 [技術書典のサークルページ](https://techbookfest.org/event/tbf07/circle/5071743462932480)にも詳細を載せているので、是非サークルチェックをお願いします。配置は*け04D*です。
 
-![サークルカット]({{site.baseurl}}/images/techbookfest7_circlecut.png){:width="240px"}
+![サークルカット]({{site.baseurl}}/assets/images/techbookfest7_circlecut.png){:width="240px"}
 
 # 頒布物
 今回のメインの頒布物はyabaitech.tokyo vol.3です。値段と予定部数は未定です。

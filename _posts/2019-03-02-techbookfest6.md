@@ -21,6 +21,6 @@ yabaitech.tokyo vol.2はヤバイテックトーキョーのメンバーによ�
 * AWS
 * ゲーム実況
 
-![表紙]({{site.baseurl}}/images/yabaitechvol2.jpg){:width="400px"}
+![表紙]({{site.baseurl}}/assets/images/yabaitechvol2.jpg){:width="400px"}
 
 詳細が決まったころに新しい記事を投稿する予定です。よろしくお願いします。

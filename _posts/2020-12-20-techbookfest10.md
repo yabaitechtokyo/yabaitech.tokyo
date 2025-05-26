@@ -24,6 +24,6 @@ EmacsでLatexを書く記事は普通に役に立つ系のそれです。その�
 早いうちに読んでライバルに差をつけるといいのではないでしょうか。
 
 なお今回の表紙もcensoredが描いてくれています。大体こんな感じになりそう。
-![表紙]({{site.baseurl}}/images/yabaitechvol6_front_draft.png){:width="300px"}
+![表紙]({{site.baseurl}}/assets/images/yabaitechvol6_front_draft.png){:width="300px"}
 
 というわけで技術書典で待っております、みんな買ってね！
